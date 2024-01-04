@@ -1,0 +1,20 @@
+button{
+    color:black;
+    width: 30px;
+    height: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    cursor: pointer;
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+#reset{
+    display: flex;
+    margin-top: 15px;
+    width : auto;
+}
